@@ -27,17 +27,3 @@ scroll to bottom of the page of “<a href="https://codewhiteweb.cf">https://cod
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 <h2 id="github-trophies">🏆GitHub Trophies</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&amp;theme=discord&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt=""></p>
-<h3 id="-latest-blog-posts">📕 Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-<p><a href="https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m">10 must have 3rd party services for all websites</a></p>
-<p><a href="https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k">Best Google Fonts for your website</a></p>
-<!-- BLOG-POST-LIST:END -->
-<p>➡️ <a href="https://dev.to/codewhiteweb">more blog posts…</a></p>
-<h3 id="️random-dev-quote">✍️Random Dev Quote</h3>
-<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=merko" alt=""></p>
-<hr>
-<h2 id=""><img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="">
-<img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="">
-<img src="https://forthebadge.com/images/badges/uses-brains.svg" alt=""></h2>
-<p><img src="https://komarev.com/ghpvc/?username=CodeWhiteWeb&amp;label=Visitors+Count&amp;color=brightgreen" alt=""></p>
-</div> 
