@@ -31,13 +31,13 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
+
 </p>
 
 ---
@@ -64,14 +64,13 @@
 <h3>✍️ Motivational Quote</h3>
 
 <p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+<p align="center">
+  <img src="https://l.top4top.io/p_3423nuw701.png" width="600" alt="Welcome Banner">
+</p>
+
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iman-Alzadajli&label=Visitors+Count&color=F472B6&style=flat" alt="visitor badge"/>
-</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width="400" alt="Welcome GIF">
