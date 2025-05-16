@@ -22,7 +22,7 @@
 <h2>📫 Connect with Me</h2>
 
 <p>📧 Email: <a href="mailto:imanadamzedjali@gmail.com">imanadamzedjali@gmail.com</a></p>
-<p>🌐 Portfolio:<a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank"></p>
+<p>🌐 Portfolio: <a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank">Visit My Website</a></p>
 
 ---
 
