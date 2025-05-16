@@ -22,7 +22,7 @@
 <h2>📫 Connect with Me</h2>
 
 <p>📧 Email: <a href="mailto:imanadamzedjali@gmail.com">imanadamzedjali@gmail.com</a></p>
-<p>🌐 Portfolio: <a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank">Visit My Website</a></p>
+<p>🌐 Portfolio: <a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank">click here</a></p>
 
 ---
 
@@ -71,6 +71,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iman-Alzadajli&label=Visitors+Count&color=F472B6&style=flat" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width="400" alt="Welcome GIF">
 </p>
 
 </div>
