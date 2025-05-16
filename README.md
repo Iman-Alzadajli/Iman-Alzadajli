@@ -1,3 +1,6 @@
+<div style="background-color: #0a192f; color: white; padding: 20px; border-radius: 10px;">
+
+
 <h3 align="center">
   Welcome to Iman Alzadajli's GitHub 🌸
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -70,6 +73,8 @@
 <p align="center">
   <img src="https://l.top4top.io/p_3423nuw701.png" width="600" alt="Welcome Banner">
 </p>
+
+</div>
 
 </p>
 
