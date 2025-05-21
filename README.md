@@ -2,12 +2,13 @@
 
 
 <h3 align="center">
-  Welcome to Iman Alzadajli's GitHub 🌸
+  Welcome to Iman Alzadajli's GitHub ✨ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=F472B6&center=true&vCenter=true&lines=Hello+There%2C+I'm+Iman+%3AD;Full+Stack+Web+Developer;Let's+Enjoy+Together"></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&lines=Hello+There%2C+I'm+Iman+%3AD;Full+Stack+Web+Developer;Let's+Enjoy+Together">
+</a>
 </p>
 
 ---
@@ -81,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif" width="400" alt="Welcome GIF">
+  <img src="https://i.pinimg.com/originals/96/e6/12/96e612ebf5056c7bcb416a25cfc96938.gif" width="400" alt="Welcome GIF">
 </p>
 
 </div>
