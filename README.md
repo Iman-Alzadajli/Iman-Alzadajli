@@ -26,7 +26,7 @@
 <h2>📫 Connect with Me</h2>
 
 <p>📧 Email: <a href="mailto:imanadamzedjali@gmail.com">imanadamzedjali@gmail.com</a></p>
-<p>🌐 Portfolio: https://poetic-puppy-9ba2c7.netlify.app/ <!--<a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank" rel="noopener noreferrer">click here</a></p>--> 
+<p>🌐 Portfolio: https://imanadamprofile.netlify.app/ <!--<a href="https://iman-alzadajli.github.io/Imanprofile.github.io/" target="_blank" rel="noopener noreferrer">click here</a></p>--> 
 
 ---
 
